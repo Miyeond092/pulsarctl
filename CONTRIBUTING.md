@@ -11,3 +11,4 @@ Notes and usage details for pulsarctl.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
